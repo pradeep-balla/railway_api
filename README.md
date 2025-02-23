@@ -41,7 +41,7 @@ API_KEY=your_admin_api_key
 ### 2 Install Dependencies
 Clone the repository and install the required packages:
 ```bash
-git clone https://github.com/ujjawalkumar131/IRCTC_API_WorkIndia.git
+git clone https://github.com/pradeep-balla/railway_api.git
 cd irctc-railway-management
 npm install
 ```
